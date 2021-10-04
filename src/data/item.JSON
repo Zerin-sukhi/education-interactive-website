@@ -1,0 +1,35 @@
+[
+    {
+        "key": "aaa1",
+        "category":"private",
+        "department":"CSE",
+        "cost": "4.5-lack",
+        "seat": "200-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa2",
+        "category":"private",
+        "department":"EEE",
+        "cost": "4-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa3",
+        "category":"private",
+        "department":"CIVIL",
+        "cost": "5-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa4",
+        "category":"private",
+        "department":"BBA",
+        "cost": "3-lack",
+        "seat": "250-students",
+        "available":"yes"
+    }
+    
+]

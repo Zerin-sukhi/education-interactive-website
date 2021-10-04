@@ -1,0 +1,11 @@
+.navbar{
+    background-color: burlywood;
+    padding: 20px;    
+}
+.head{
+    display: flex;
+    column-gap: 300px;
+}
+span{
+    font-size: 30px;
+}

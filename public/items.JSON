@@ -1,0 +1,110 @@
+[
+    {
+        "key": "aaa1",
+        "department": "CSE",
+        "subject": "C-Programming",
+        "cost": "4.5-lack",
+        "img": "https://cdn.guru99.com/images/1/c-programming-3.jpg",
+        "seat": "200-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa2",
+        "department": "CSE",
+        "subject": "Java",
+        "cost": "4.5-lack",
+        "img": "https://www.wileyindia.com/pub/media/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/9/7/9789389520910.jpg",
+        "seat": "200-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa3",
+        "department": "CSE",
+        "subject": "Web-programming",
+        "cost": "4.5-lack",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51dMdwOZVKL._SX400_BO1,204,203,200_.jpg",
+        "seat": "200-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa4",
+        "department": "EEE",
+        "subject": "Electro-magnetism",
+        "cost": "4-lack",
+        "img": "https://imgv2-1-f.scribdassets.com/img/word_document/271522739/original/216x287/232b6ab228/1617224474?v=1",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa5",
+        "department": "EEE",
+        "subject": "Control-systems",
+        "cost": "4-lack",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/41Q178FGDFL._SX357_BO1,204,203,200_.jpg",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa6",
+        "department": "EEE",
+        "subject": "Electronics",
+        "cost": "4-lack",
+        "img": "https://media.wiley.com/product_data/coverImage300/46/04700321/0470032146.jpg",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa7",
+        "department": "CIVIL",
+        "subject": "Concrete-technology",
+        "cost": "5-lack",
+        "img": "https://cdn01.sapnaonline.com/bk_images/034/9788121900034.jpg",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa8",
+        "department": "CIVIL",
+        "subject": "Surveying",
+        "cost": "5-lack",
+        "img": "https://5.imimg.com/data5/FY/JG/GLADMIN-2954845/surveying-for-engineers-and-arch-500x500.png",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa9",
+        "department": "CIVIL",
+        "subject": "Structural-analysis",
+        "cost": "5-lack",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387702737l/1843479.jpg",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa10",
+        "department": "BBA",
+        "subject": "Essentials and Principles of Management",
+        "cost": "3-lack",
+        "img": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596848712l/54847623._SY475_.jpg",
+        "seat": "250-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa11",
+        "department": "BBA",
+        "subject": "Business Economics",
+        "cost": "3-lack",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/51t+K2lIP3L._SX258_BO1,204,203,200_.jpg",
+        "seat": "250-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa12",
+        "department": "BBA",
+        "subject": "Statistics",
+        "cost": "3-lack",
+        "img": "https://static1.eboighar.com/thumbimages/Books/book_58102018-02-06_1517914807.jpg",
+        "seat": "250-students",
+        "available": "yes"
+    }
+]

@@ -1,0 +1,21 @@
+.item{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 100px;
+    margin-right: 100px;
+    row-gap: 50px;
+    column-gap: 50px;
+}
+.join{
+    text-align: center;
+}
+.homeItem{
+    text-align: center;
+    border: 1px solid burlywood;
+border: 1px solid lightgrey;
+border-radius: 10px;
+border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 10px 10px gray;
+
+}

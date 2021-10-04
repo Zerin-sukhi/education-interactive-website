@@ -1,0 +1,38 @@
+[
+    {
+        "key": "aaa1",
+        "category": "private",
+        "department": "CSE",
+        "cost": "4.5-lack",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5hN6zTjg1ueB3lNLeb3xlFMd36zBJrJ5ZodprIuVVlqCDIJI1nLNHsv6K7KcQ34ffcrs&usqp=CAU",
+        "seat": "200-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa2",
+        "category": "private",
+        "department": "EEE",
+        "cost": "4-lack",
+        "img": "https://t4.ftcdn.net/jpg/03/80/58/27/360_F_380582715_KWXgxJI89JKBvDPK92f7XE8GQunfAwEK.jpg",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa3",
+        "category": "private",
+        "department": "CIVIL",
+        "cost": "5-lack",
+        "img": "https://cbseneet2019.co.in/wp-content/uploads/2021/02/civil-engineering-animated-word-cloud-kinetic-typography_sfsntbdre_thumbnail-full08-800x445-1.png",
+        "seat": "150-students",
+        "available": "yes"
+    },
+    {
+        "key": "aaa4",
+        "category": "private",
+        "department": "BBA",
+        "cost": "3-lack",
+        "img": "https://miro.medium.com/max/566/1*8HfuwQD554mh19IpuHukxQ.jpeg",
+        "seat": "250-students",
+        "available": "yes"
+    }
+]

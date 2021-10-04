@@ -1,0 +1,98 @@
+[
+    {
+        "key": "aaa1",
+        "department":"CSE",
+        "coreCourse":"C-Programming",
+        "cost": "4.5-lack",
+        "seat": "200-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa2",
+        "department":"CSE",
+        "coreCourse":"Java",
+        "cost": "4.5-lack",
+        "seat": "200-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa3",
+        "department":"CSE",
+        "course":"Web-programming",
+        "cost": "4.5-lack",
+        "seat": "200-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa4",
+        "department":"EEE",
+        "course":"Electro-magnetism",
+        "cost": "4-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa5",
+        "department":"EEE",
+        "course":"Control-systems",
+        "cost": "4-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa6",
+        "department":"EEE",
+        "course":"Electronics",
+        "cost": "4-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa7",
+        "department":"CIVIL",
+        "course":"Concrete-technology",
+        "cost": "5-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa8",
+        "department":"CIVIL",
+        "course":"Surveying",
+        "cost": "5-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa9",
+        "department":"CIVIL",
+        "course":"Structural-analysis",
+        "cost": "5-lack",
+        "seat": "150-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa10",
+        "department":"BBA",
+        "course":"Essentials and Principles of Management",
+        "cost": "3-lack",
+        "seat": "250-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa11",
+        "department":"BBA",
+        "course":"Business Economics",
+        "cost": "3-lack",
+        "seat": "250-students",
+        "available":"yes"
+    },
+    {
+        "key": "aaa12",
+        "department":"BBA",
+        "course":"Statistics",
+        "cost": "3-lack",
+        "seat": "250-students",
+        "available":"yes"
+    }    
+]

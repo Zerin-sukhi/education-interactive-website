@@ -1,0 +1,15 @@
+.platform{
+    display: flex;
+    justify-content: center;
+    column-gap: 30px;
+}
+.reg{
+    text-align: center;
+}
+.form{
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}

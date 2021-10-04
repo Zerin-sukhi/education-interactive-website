@@ -1,0 +1,16 @@
+.footer{
+    margin-top: 250px;
+    display: flex;
+    background:rgb(131, 101, 63);
+    color: white;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    column-gap: 700px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.copyright{
+    text-align: center;
+}

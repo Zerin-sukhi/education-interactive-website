@@ -1,0 +1,12 @@
+.welcome{
+    text-align: center;
+}
+.pera{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.notice{
+    margin-right: 50px;
+}
